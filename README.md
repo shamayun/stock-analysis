@@ -4,7 +4,7 @@
 
 My good friend Steve, a Finance grad and Excel power user is exploring multiple stocks&#39; performances so that his parents can make a sound investment decision. Steve has gathered up 2 years of financial transactions of 12 green stocks which matches with his parents&#39; initial investment preferences, companies which can produce fossil fuel alternatives. Steve chose to evaluate 2 simple yet effective methods, transaction volume and rate of return of stocks as a starting point.
 
-**The purpose and background are well defined:**
+**Purpose and background:**
 
 Since Steve is an Excel power user, he could perhaps develop Excel formulas to perform the key requirements. His concern though is for time efficiency, volume of data to be handled and frequency of exploration for current and future needs, forced him looking into automation with VBA. His ask for results in a click of a button to calculate transactions, yearly rate of return, performance highlighted with positive/negative for any number of stocks in an easily readable format can be tactfully scripted using VBA.
 
